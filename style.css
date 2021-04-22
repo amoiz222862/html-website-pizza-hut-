@@ -1,0 +1,15 @@
+@font-face{
+    font-family: my font;
+    src: url(fonts/Poppins-Italic.ttf);
+    
+}
+.td{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+
+h1{
+    font-family: my font;
+    text-shadow: 2px 4px 2px black;
+}
